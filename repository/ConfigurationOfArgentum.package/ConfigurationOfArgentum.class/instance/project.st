@@ -1,6 +1,5 @@
 accessing
 project
-
 	^ project ifNil: [ 
 		"Bootstrap Metacello if it is not already loaded"
 		(self class baseConfigurationClassIfAbsent: []) ensureMetacello.
