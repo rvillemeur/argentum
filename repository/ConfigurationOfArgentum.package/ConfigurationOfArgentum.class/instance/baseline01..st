@@ -4,7 +4,7 @@ baseline01: spec
 	spec
 		for: #common
 		do: [ spec blessing: #baseline.
-			spec directory: 'file://C:\Users\villemre\Documents\devspace'.
+			spec repository: 'C:\Users\villemre\Documents\devspace'.
 			spec
 				package: 'Argentum-Core';
 				package: 'Argentum-Tests'.
