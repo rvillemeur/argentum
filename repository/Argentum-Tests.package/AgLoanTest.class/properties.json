@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Argentum-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"capital",
+		"interest",
+		"rate",
+		"period"
+	],
+	"name" : "AgLoanTest",
+	"type" : "normal"
+}
