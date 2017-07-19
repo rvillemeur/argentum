@@ -1,0 +1,1 @@
+This project will implement an interest rate calculation package reference for all kind of interest calculation

@@ -1,4 +1,6 @@
-tags
+symbolic versions
 stable: spec
-	<symbolicVersion: #stable >
+	<symbolicVersion: #'stable'>
+
 	spec for: #'common' version: '0.1'.
+	

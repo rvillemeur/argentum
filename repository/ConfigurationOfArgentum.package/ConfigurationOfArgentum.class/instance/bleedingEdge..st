@@ -1,4 +1,6 @@
-tags
+symbolic versions
 bleedingEdge: spec
-	<symbolicVersion: #bleedingEdge >
+	<symbolicVersion: #'bleedingEdge'>
+
 	spec for: #'common' version: '0.1'.
+	
