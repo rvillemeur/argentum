@@ -1,0 +1,15 @@
+baselines
+baseline10: spec
+	<version: '1.0-baseline'>
+	spec for: #common do: [	
+		spec blessing: #baseline.
+		spec repository: 'file:\\C:\Users\villemre\Documents\devspace'.
+		
+		spec
+			package: 'Argentum-Core';
+			package: 'Argentum-Tests'.
+			
+		spec 
+			group: 'default' with: #('core' 'test');
+			group: 'test'    with: #('Argentum-Tests');
+			group: 'core'    with: #('Argentum-Core')]
