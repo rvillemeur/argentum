@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AgDayCountFraction",
+	"category" : "Argentum-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Ag30360",
+	"type" : "normal"
+}
