@@ -7,6 +7,4 @@ date2 := Date fromString: '2/29/2008'.
 
 dcf := AgDCF30360ISDA startDate: date1 endDate:date2 .
 
-dcf.
-
-self assert: dcf dayCountFraction  = (1/6).
+self assert: dcf dayCountFraction  = (61/360).
