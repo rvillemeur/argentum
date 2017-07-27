@@ -1,3 +1,5 @@
+30/360 German 	30E/360 ISDA
+	
 DCF = Num/Den
 Num:
 1. If D1 (and/or D2) = 31, Set D1 (and/or D2) = 30
