@@ -5,7 +5,10 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "AgLoanTest",
+	"instvars" : [
+		"date1",
+		"date2"
+	],
+	"name" : "AgDayCountFractionTest",
 	"type" : "normal"
 }
