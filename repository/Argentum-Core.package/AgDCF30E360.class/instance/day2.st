@@ -3,5 +3,5 @@ day2
 	| day |
 	day := super day2.
 	day = 31
-		ifTrue: [ day := 30 ].
+		ifTrue: [ day := 1 ].
 	^ day
