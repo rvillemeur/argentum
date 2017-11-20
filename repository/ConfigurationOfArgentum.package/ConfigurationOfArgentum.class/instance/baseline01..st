@@ -4,7 +4,7 @@ baseline01: spec
 	spec
 		for: #common
 		do: [ spec blessing: #baseline.
-			spec repository: 'C:\Users\villemre\Documents\devspace'.
+			spec repository: 'ftp://ftpperso.free.fr/devspace' username: 'renaud.devillemeur' password: 'devils01'.
 			spec
 				package: 'Argentum-Core';
 				package: 'Argentum-Tests'.
