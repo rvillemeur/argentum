@@ -1,16 +1,16 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "RenaudDeVillemeur 3/4/2018 22:19",
 	"super" : "Object",
 	"category" : "Argentum-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"capital",
-		"interest",
-		"rate",
-		"period"
+		"period",
+		"futureValue",
+		"interestRate",
+		"presentValue"
 	],
-	"name" : "AgLoan",
+	"name" : "AgSimpleCashFlow",
 	"type" : "normal"
 }
