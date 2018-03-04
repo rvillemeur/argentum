@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "AgLoanTest",
+	"name" : "AgSimpleInterestTest",
 	"type" : "normal"
 }
