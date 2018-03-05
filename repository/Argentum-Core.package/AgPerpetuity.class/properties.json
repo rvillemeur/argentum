@@ -1,16 +1,15 @@
 {
-	"commentStamp" : "RenaudDeVillemeur 3/5/2018 10:01",
+	"commentStamp" : "RenaudDeVillemeur 3/5/2018 11:51",
 	"super" : "Object",
 	"category" : "Argentum-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"period",
-		"futureValue",
+		"paiement",
 		"interestRate",
 		"presentValue"
 	],
-	"name" : "AgSimpleCashFlow",
+	"name" : "AgPerpetuity",
 	"type" : "normal"
 }
