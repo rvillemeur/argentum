@@ -1,0 +1,1 @@
+A perpetuity is payments of a set amount of money that occur on a routine basis and continues forever. When n → ∞, the PV of a perpetuity (a perpetual annuity) formula becomes simple division.

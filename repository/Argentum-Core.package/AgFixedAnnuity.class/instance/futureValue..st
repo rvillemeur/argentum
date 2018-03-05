@@ -1,3 +1,3 @@
 accessing
-futureValue: aNumber
-	futureValue := aNumber
+futureValue: anObject
+	futureValue := anObject

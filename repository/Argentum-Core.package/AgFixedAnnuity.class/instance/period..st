@@ -1,3 +1,3 @@
 accessing
-period: aNumber
-	period := aNumber
+period: anObject
+	period := anObject
