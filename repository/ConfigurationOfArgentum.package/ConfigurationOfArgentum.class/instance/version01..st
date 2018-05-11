@@ -10,4 +10,4 @@ version01: spec
 				timestamp: '2017-07-19'.
 			spec
 				package: 'Argentum-Core' with: 'Argentum-Core-RenaudDeVillemeur.8';
-				package: 'Argentum-Tests' with: 'Argentum-Tests-RenaudDeVillemeur.8' ].
+				package: 'Argentum-Tests' with: 'Argentum-Tests-RenaudDeVillemeur.9' ].
