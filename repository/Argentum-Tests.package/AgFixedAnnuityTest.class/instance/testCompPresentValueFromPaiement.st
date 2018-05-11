@@ -1,5 +1,5 @@
 tests
-testFixedAnnuity
+testCompPresentValueFromPaiement
 	| fixedAnnuity presentValue |
 	fixedAnnuity := AgFixedAnnuity
 		presentValue: 0
