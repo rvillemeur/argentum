@@ -1,5 +1,5 @@
 tests
-testSimpleInterest3
+testCompInterestRate
 |simpleLoan interest |
 simpleLoan := AgSimpleInterest presentValue: 100 futureValue: 125 interestRate: 0 period: 5.
 interest := simpleLoan compInterestRate.
