@@ -8,5 +8,5 @@ testCompPaiementFromPresentValue
 		period: 5
 		paiement: 100.
 	"futureValue := fixedAnnuity compPeriod round:2."
-	paiement := fixedAnnuity compPaiementFromPresentValue  round: 2.
-	self assert: paiement = 237.40
+	paiement := fixedAnnuity compPaiementFromPresentValue asFloat round: 2.
+	self assert: paiement equals: 237.40
