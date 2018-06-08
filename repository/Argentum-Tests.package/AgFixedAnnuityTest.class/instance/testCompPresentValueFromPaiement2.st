@@ -9,4 +9,4 @@ testCompPresentValueFromPaiement2
 		paiement: 100.
 	"futureValue := fixedAnnuity compPeriod round:2."
 	presentValue := fixedAnnuity compPresentValueFromPaiement   round: 0.
-	self assert: presentValue = 1000
+	self assert: presentValue equals: 1000

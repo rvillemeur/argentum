@@ -7,5 +7,5 @@ testCompFutureValueFromPaiement
 		interestRate: 6 / 100
 		period: 5
 		paiement: 1000.
-	futureValue := fixedAnnuity compFutureValueFromPaiement   round: 2.
-	self assert: futureValue = 5637.09
+	futureValue := fixedAnnuity compFutureValueFromPaiement  asFloat round: 2.
+	self assert: futureValue equals: 5637.09
