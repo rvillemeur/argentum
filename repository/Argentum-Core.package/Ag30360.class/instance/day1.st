@@ -1,2 +1,3 @@
 as yet unclassified
-day1^date1 dayOfMonth.
+day1
+	^ date1 dayOfMonth

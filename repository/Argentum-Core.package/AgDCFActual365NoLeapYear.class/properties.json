@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "RenaudDeVillemeur 7/19/2017 16:25",
-	"super" : "AgDayCountFraction",
+	"super" : "AgActual",
 	"category" : "Argentum-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],

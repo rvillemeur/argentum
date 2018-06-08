@@ -1,3 +1,3 @@
 as yet unclassified
-month1 
-	^date1 monthIndex.
+month1
+	^ date1 monthIndex
