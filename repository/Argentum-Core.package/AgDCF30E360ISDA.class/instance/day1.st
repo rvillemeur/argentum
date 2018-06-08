@@ -2,8 +2,8 @@ accessing
 day1
 	| day month date |
 	day := super day1.
-	month := super month1.
-	date := super date1.
+	month := self month1.
+	date := self date1.
 	day = 31
 		ifTrue: [ day := 30 ].
 		"are we the last day of february ?"

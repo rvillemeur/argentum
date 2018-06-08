@@ -1,3 +1,4 @@
+30/360 ISMA, European, Special german, Eurobond basis
 DCF = Num/Den
 
 Num:

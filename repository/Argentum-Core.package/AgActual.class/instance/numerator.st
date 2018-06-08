@@ -1,0 +1,3 @@
+private
+numerator
+	^ self subclassResponsibility

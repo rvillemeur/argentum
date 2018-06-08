@@ -1,5 +1,3 @@
 as yet unclassified
 dayCountFraction
-	^ ((date2 - date1) days) /  360.
-	
-	
+	^ self numerator / self denominator
