@@ -9,5 +9,5 @@ version01: spec
 				author: 'Renaud de Villemeur';
 				timestamp: '2017-07-19'.
 			spec
-				package: 'Argentum-Core' with: 'Argentum-Core-RenaudDeVillemeur.9';
-				package: 'Argentum-Tests' with: 'Argentum-Tests-RenaudDeVillemeur.10' ].
+				package: 'Argentum-Core' with: 'Argentum-Core-RenaudDeVillemeur.10';
+				package: 'Argentum-Tests' with: 'Argentum-Tests-RenaudDeVillemeur.11' ].
