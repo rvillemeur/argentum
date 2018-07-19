@@ -5,4 +5,4 @@ baseline: spec
 		for: #common
 		do: [ spec
 				package: 'Argentum-Core';
-				package: 'Argentum-tests' with: [ spec requires: 'Argentum-Core' ] ].
+				package: 'Argentum-Tests' with: [ spec requires: 'Argentum-Core' ] ]
