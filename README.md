@@ -6,7 +6,7 @@ Few function to perform interest calculation done in smalltalk
 Toy project to explore Pharo Smalltalk, and play with its new interface with git, Iceberg
 
 
-[![Build Status](https://travis-ci.com/rvillemeur/argentum.svg?branch=master)](https://travis-ci.com/rvillemeur/argentum)
+[![Build Status](https://travis-ci.org/rvillemeur/argentum.svg?branch=master)](https://travis-ci.com/rvillemeur/argentum)
 
 [![Coverage Status](https://coveralls.io/repos/github/rvillemeur/argentum/badge.svg?branch=master)](https://coveralls.io/github/rvillemeur/argentum?branch=master)
 
