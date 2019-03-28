@@ -10,7 +10,7 @@ Toy project to explore Pharo Smalltalk, and play with its new interface with git
 
 [![Coverage Status](https://coveralls.io/repos/github/rvillemeur/argentum/badge.svg?branch=master)](https://coveralls.io/github/rvillemeur/argentum?branch=master)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rvillemeur/argentum)
 
 [![Pharo version](https://img.shields.io/badge/Pharo-7.0-%23aac9ff.svg)](https://pharo.org/download)
 [![Pharo version](https://img.shields.io/badge/Pharo-8.0-%23aac9ff.svg)](https://pharo.org/download)
