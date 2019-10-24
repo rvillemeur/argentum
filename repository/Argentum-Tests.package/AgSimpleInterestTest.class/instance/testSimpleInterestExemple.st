@@ -10,7 +10,7 @@ testSimpleInterestExemple
 	cashflow := AgSimpleInterest
 		presentValue: 5000
 		futureValue: 0
-		interestRate: 3 / 100
+		interestRate: 3 percent
 		period: dcf dayCountFraction.
 	futureValue := cashflow compFutureValue round: 2.
 	self assert: futureValue equals: 5049.32.

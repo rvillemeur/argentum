@@ -4,7 +4,7 @@ testCompPaiementFromFutureValue
 	fixedAnnuity := AgFixedAnnuity
 		presentValue: 0
 		futureValue: 1000
-		interestRate: 6 / 100
+		interestRate: 6 percent
 		period: 5
 		paiement: 100.
 	"futureValue := fixedAnnuity compPeriod round:2."
