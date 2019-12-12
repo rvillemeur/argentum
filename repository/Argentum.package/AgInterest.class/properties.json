@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Argentum-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nominal",
+		"effective",
+		"compoundingPeriod"
+	],
+	"name" : "AgInterest",
+	"type" : "normal"
+}
