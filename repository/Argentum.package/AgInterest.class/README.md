@@ -1,0 +1,1 @@
+A rate is being nominal when it is accompanied by a capitalization/compounding period.
