@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "RenaudDeVillemeur 3/5/2018 10:06",
+	"super" : "Object",
+	"category" : "Argentum-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"period",
+		"futureValue",
+		"interestRate",
+		"presentValue",
+		"paiement"
+	],
+	"name" : "AgFixedAnnuity",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+private
+denominator
+	^ 1

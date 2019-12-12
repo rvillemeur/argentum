@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RenaudDeVillemeur 7/19/2017 16:25",
+	"super" : "AgActual",
+	"category" : "Argentum-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AgDCFActual365NoLeapYear",
+	"type" : "normal"
+}

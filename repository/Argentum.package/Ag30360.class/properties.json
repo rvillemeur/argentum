@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RenaudDeVillemeur 7/27/2017 17:53",
+	"super" : "AgDayCountFraction",
+	"category" : "Argentum-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Ag30360",
+	"type" : "normal"
+}

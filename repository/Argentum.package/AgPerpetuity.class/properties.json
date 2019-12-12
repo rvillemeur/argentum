@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "RenaudDeVillemeur 3/5/2018 11:51",
+	"super" : "Object",
+	"category" : "Argentum-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"paiement",
+		"interestRate",
+		"presentValue"
+	],
+	"name" : "AgPerpetuity",
+	"type" : "normal"
+}

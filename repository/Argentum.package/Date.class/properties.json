@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Timespan",
+	"category" : "Argentum-core",
+	"classinstvars" : [ ],
+	"pools" : [
+		"ChronologyConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Date",
+	"type" : "normal"
+}

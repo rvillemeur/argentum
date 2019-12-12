@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RenaudDeVillemeur 6/8/2018 14:59",
+	"super" : "Ag30360",
+	"category" : "Argentum-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AgDCF30360ISMA",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "RenaudDeVillemeur 3/5/2018 12:05",
+	"super" : "Object",
+	"category" : "Argentum-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"paiement",
+		"interestRate",
+		"presentValue",
+		"growthRate"
+	],
+	"name" : "AgGrowingPerpetuity",
+	"type" : "normal"
+}
