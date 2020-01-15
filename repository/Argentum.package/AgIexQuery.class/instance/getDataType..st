@@ -1,5 +1,5 @@
 accessing
-getDataFor: aQuery type: aType
+getDataType: aType
 	^ self
 		convertToJson:
 			(ZnClient new
@@ -7,7 +7,6 @@ getDataFor: aQuery type: aType
 				host: self baseURL;
 				addPath: self version;
 				addPath: aType;
-				addPath: aQuery;
 				queryAt: 'format' put: self defaultFormat;
-				queryAt: 'token' put: self publicToken ;
+				queryAt: 'token' put: self privateToken;
 				get) yourself
