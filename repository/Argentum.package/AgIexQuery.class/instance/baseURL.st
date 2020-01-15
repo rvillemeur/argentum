@@ -1,3 +1,3 @@
-accessing
+default
 baseURL
-	^ 'https://cloud.iexapis.com'
+	^ 'cloud.iexapis.com'
