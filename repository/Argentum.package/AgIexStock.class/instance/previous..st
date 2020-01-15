@@ -1,3 +1,3 @@
 api - queries - prices
 previous: aSymbol
-	^ self getDataFor: aSymbol query: '/previous' 
+	^ self getDataFor: aSymbol query: 'previous' 

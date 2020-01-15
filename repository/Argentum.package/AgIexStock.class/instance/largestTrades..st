@@ -1,3 +1,3 @@
 api - queries - prices
 largestTrades: aSymbol
-	^ self getDataFor: aSymbol query:'/largest-trades' 
+	^ self getDataFor: aSymbol query:'largest-trades' 

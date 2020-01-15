@@ -1,3 +1,3 @@
 api - queries - prices
 ohlc: aSymbol
-	^ self getDataFor: aSymbol query:'/ohlc' 
+	^ self getDataFor: aSymbol query:'ohlc' 

@@ -1,3 +1,3 @@
 api - queries - stock profiles
 insiderRoster: aSymbol
-	^ self getDataFor: aSymbol query: '/insider-roster' 
+	^ self getDataFor: aSymbol query: 'insider-roster' 

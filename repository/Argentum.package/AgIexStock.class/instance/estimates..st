@@ -1,3 +1,3 @@
 api - queries - research
 estimates:  aSymbol
-	^ self getDataFor: aSymbol query: '/estimates' 
+	^ self getDataFor: aSymbol query: 'estimates' 

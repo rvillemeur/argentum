@@ -1,3 +1,3 @@
 api - queries - prices
 delayedQuote: aSymbol
-	^ self getDataFor: aSymbol query: '/delayed-quote' 
+	^ self getDataFor: aSymbol query: 'delayed-quote' 

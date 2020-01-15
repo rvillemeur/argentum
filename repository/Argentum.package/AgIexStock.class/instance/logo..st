@@ -1,3 +1,3 @@
 api - queries - stock profiles
 logo: aSymbol
-	^ self getDataFor: aSymbol query: '/logo' 
+	^ self getDataFor: aSymbol query: 'logo' 

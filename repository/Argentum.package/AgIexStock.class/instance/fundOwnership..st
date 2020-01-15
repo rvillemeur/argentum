@@ -1,3 +1,3 @@
 api - queries - research
 fundOwnership:  aSymbol
-	^ self getDataFor: aSymbol query: '/fund-ownership' 
+	^ self getDataFor: aSymbol query: 'fund-ownership' 

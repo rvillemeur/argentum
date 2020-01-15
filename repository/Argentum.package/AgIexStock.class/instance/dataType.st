@@ -1,3 +1,3 @@
 accessing
 dataType
-^'/stock/'
+^'stock'

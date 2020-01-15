@@ -14,7 +14,4 @@ ytd 		Year-to-date 								Historically adjusted market-wide data
 date 		Specific date 								If used with the query parameter chartByDay, then this returns historical OHLCV data for that date. Otherwise, IEX-only data by minute for a specified date if available. Date format YYYYMMDD. Currently supporting trailing 30 calendar days of minute bar 	data.
 dynamic 	One day 										Will return 1d or 1m data depending on the day or week and time of day. Intraday per minute data is only returned during market hours."
 
-	^ ZnEasy
-		get:
-			self baseURL , self dataType , aSymbol , '/chart/' , aRange
-				, self token , self publicToken
+	^ self getDataFor: aSymbol range: aRange

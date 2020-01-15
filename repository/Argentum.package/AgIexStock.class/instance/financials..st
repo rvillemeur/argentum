@@ -1,3 +1,3 @@
 api - queries - fundamentals
 financials: aSymbol
-	^ self getDataFor: aSymbol query: '/financials' 
+	^ self getDataFor: aSymbol query: 'financials' 

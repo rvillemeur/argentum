@@ -1,0 +1,12 @@
+accessing
+getDataFor: aSymbol query: aQuery range: aRange type: aType
+	^ ZnClient new
+		https;
+		host: self baseURL;
+		addPath: self version;
+		addPath: aType;
+		addPath: aSymbol;
+		addPath: 'chart';
+		addPath: aQuery;
+		queryAt: 'token' put: self publicToken;
+		get
