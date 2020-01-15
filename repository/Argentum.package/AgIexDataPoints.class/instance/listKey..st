@@ -1,3 +1,3 @@
 as yet unclassified
-listDataKey: aSymbol
+listKey: aSymbol
 ^AgIexQuery new getDataFor: aSymbol type: self dataType  
