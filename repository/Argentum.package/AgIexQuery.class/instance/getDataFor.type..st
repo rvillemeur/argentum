@@ -9,5 +9,5 @@ getDataFor: aQuery type: aType
 				addPath: aType;
 				addPath: aQuery;
 				queryAt: 'format' put: self defaultFormat;
-				queryAt: 'token' put: self publicToken ;
+				queryAt: 'token' put: self class publicToken ;
 				get) yourself

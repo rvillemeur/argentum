@@ -8,5 +8,5 @@ getDataType: aType
 				addPath: self version;
 				addPath: aType;
 				queryAt: 'format' put: self defaultFormat;
-				queryAt: 'token' put: self privateToken;
+				queryAt: 'token' put: self class privateToken;
 				get) yourself

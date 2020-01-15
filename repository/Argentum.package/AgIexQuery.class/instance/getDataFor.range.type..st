@@ -11,5 +11,5 @@ getDataFor: aSymbol range: aRange type: aType
 				addPath: 'chart';
 				addPath: aRange;
 				queryAt: 'format' put: self defaultFormat;
-				queryAt: 'token' put: self publicToken;
+				queryAt: 'token' put: self class publicToken;
 				get)

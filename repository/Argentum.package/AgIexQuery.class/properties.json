@@ -4,7 +4,10 @@
 	"category" : "Argentum-IEX",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"privateToken",
+		"publicToken"
+	],
 	"instvars" : [ ],
 	"name" : "AgIexQuery",
 	"type" : "normal"
