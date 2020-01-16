@@ -5,8 +5,11 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [
+		"baseURL",
+		"defaultFormat",
 		"privateToken",
-		"publicToken"
+		"publicToken",
+		"version"
 	],
 	"instvars" : [ ],
 	"name" : "AgIexQuery",

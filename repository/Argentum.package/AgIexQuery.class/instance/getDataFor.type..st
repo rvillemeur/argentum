@@ -4,10 +4,10 @@ getDataFor: aQuery type: aType
 		convertToJson:
 			(ZnClient new
 				https;
-				host: self baseURL;
-				addPath: self version;
+				host: self class baseURL;
+				addPath: self class version;
 				addPath: aType;
 				addPath: aQuery;
-				queryAt: 'format' put: self defaultFormat;
+				queryAt: 'format' put: self class defaultFormat;
 				queryAt: 'token' put: self class publicToken ;
 				get) yourself
