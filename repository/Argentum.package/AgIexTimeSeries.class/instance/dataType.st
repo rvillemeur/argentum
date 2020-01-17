@@ -1,3 +1,0 @@
-accessing
-dataType
-^'time-series'

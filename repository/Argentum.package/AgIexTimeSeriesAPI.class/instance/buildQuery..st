@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 buildQuery: aZnUrl
 	aZnUrl addPathSegment: self dataType.
 	(symbol isNil and: key isNil)
