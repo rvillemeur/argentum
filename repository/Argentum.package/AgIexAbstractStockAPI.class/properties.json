@@ -9,6 +9,6 @@
 		"symbol",
 		"url"
 	],
-	"name" : "AgIexAbstractStock",
+	"name" : "AgIexAbstractStockAPI",
 	"type" : "normal"
 }

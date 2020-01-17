@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "AgIexAbstractStockAPI",
-	"category" : "Argentum-IEX-API",
+	"super" : "TestCase",
+	"category" : "Argentum-IEX-API-Tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "AgIexStockFundOwnership",
+	"name" : "AgIexTimeSeriesAPITest",
 	"type" : "normal"
 }

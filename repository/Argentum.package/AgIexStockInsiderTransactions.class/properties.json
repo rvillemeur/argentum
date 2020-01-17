@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "AgIexAbstractStock",
+	"super" : "AgIexAbstractStockAPI",
 	"category" : "Argentum-IEX-API",
 	"classinstvars" : [ ],
 	"pools" : [ ],

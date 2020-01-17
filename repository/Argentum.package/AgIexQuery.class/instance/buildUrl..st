@@ -6,6 +6,6 @@ buildUrl: anAgIexApi
 		host: self class baseURL;
 		addPathSegment: self class version;
 		yourself.
-	url := anAgIexApi buildQuery: url.
+	anAgIexApi buildQuery: url.
 	url queryAt: 'format' put: self class defaultFormat.
 	^ url
