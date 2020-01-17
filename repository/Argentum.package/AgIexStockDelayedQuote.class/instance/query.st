@@ -1,0 +1,3 @@
+accessing
+query
+	^ 'delayed-quote'

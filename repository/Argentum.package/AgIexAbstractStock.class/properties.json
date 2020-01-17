@@ -1,14 +1,14 @@
 {
-	"commentStamp" : "RenaudDeVillemeur 1/14/2020 15:48",
+	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "Argentum-IEX",
+	"category" : "Argentum-IEX-API",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
 		"symbol",
-		"result"
+		"url"
 	],
-	"name" : "AgIexStock",
+	"name" : "AgIexAbstractStock",
 	"type" : "normal"
 }

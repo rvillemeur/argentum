@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "RenaudDeVillemeur 1/15/2020 10:32",
 	"super" : "Object",
-	"category" : "Argentum-IEX",
+	"category" : "Argentum-IEX-API",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [

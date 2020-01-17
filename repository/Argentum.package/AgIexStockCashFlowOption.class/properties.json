@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "AgIexAbstractStock",
+	"category" : "Argentum-IEX-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"options"
+	],
+	"name" : "AgIexStockCashFlowOption",
+	"type" : "normal"
+}
