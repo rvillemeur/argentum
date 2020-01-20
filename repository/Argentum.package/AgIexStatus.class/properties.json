@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RenaudDeVillemeur 1/20/2020 15:59",
+	"super" : "Object",
+	"category" : "Argentum-IEX",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AgIexStatus",
+	"type" : "normal"
+}

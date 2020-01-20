@@ -1,5 +1,5 @@
 accessing
-buildUrl: anAgIexApi
+buildBaseUrl: anAgIexApi
 	| url |
 	url := ZnUrl new
 		scheme: #https;
@@ -7,5 +7,4 @@ buildUrl: anAgIexApi
 		addPathSegment: self class version;
 		yourself.
 	anAgIexApi buildQuery: url.
-	url queryAt: 'format' put: self class defaultFormat.
 	^ url
