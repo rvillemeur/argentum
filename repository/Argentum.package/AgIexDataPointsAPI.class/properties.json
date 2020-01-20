@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Argentum-IEX-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"symbol",
+		"url",
+		"key",
+		"subKeys"
+	],
+	"name" : "AgIexDataPointsAPI",
+	"type" : "normal"
+}
