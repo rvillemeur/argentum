@@ -2,16 +2,12 @@
 	"commentStamp" : "",
 	"super" : "AgIexAbstractAPI",
 	"category" : "Argentum-IEX-API",
-	"classinstvars" : [
-		"a"
-	],
+	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"symbol",
-		"key",
-		"subKeys"
+		"url"
 	],
-	"name" : "AgIexTimeSeriesAPI",
+	"name" : "AgIexReferenceDataCrypto",
 	"type" : "normal"
 }
