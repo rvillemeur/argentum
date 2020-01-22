@@ -1,5 +1,5 @@
 as yet unclassified
 post: aZnUrl data: aCollection 
-	ZnClient new
+	^ZnClient new
 				put: aZnUrl
 				contents: aCollection.

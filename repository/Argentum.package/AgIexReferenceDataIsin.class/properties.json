@@ -5,7 +5,9 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"isin"
+	],
 	"name" : "AgIexReferenceDataIsin",
 	"type" : "normal"
 }
