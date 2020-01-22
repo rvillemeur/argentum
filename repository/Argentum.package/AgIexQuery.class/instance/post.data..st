@@ -1,4 +1,4 @@
-as yet unclassified
+operations
 post: aZnUrl data: aCollection 
 	^ZnClient new
 				put: aZnUrl
