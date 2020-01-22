@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"url"
-	],
+	"instvars" : [ ],
 	"name" : "AgIexStatusAPI",
 	"type" : "normal"
 }
