@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "AgIexAbstractReferenceData",
+	"category" : "Argentum-IEX-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"type",
+		"direction",
+		"last",
+		"startDate"
+	],
+	"name" : "AgIexReferenceDataUSHolidays",
+	"type" : "normal"
+}
