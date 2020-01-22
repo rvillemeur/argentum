@@ -1,3 +1,3 @@
 initialization
 initializeURL
-	url := AgIexQuery new buildQueryWithFormatUrl: self
+	url := AgIexQuery new buildQueryWithFormatUrl:  self

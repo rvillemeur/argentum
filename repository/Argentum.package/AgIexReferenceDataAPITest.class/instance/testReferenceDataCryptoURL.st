@@ -1,5 +1,5 @@
 tests
-testTimeSeriesInventoryURL
+testReferenceDataCryptoURL
 	| crypto |
 	crypto := AgIexReferenceDataCrypto new.
 	self

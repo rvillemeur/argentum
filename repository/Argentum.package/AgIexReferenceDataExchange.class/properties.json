@@ -5,7 +5,9 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "AgIexReferenceDataCrypto",
+	"instvars" : [
+		"code"
+	],
+	"name" : "AgIexReferenceDataExchange",
 	"type" : "normal"
 }

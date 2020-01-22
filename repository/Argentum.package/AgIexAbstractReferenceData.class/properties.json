@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "AgIexAbstractReferenceData",
+	"super" : "AgIexAbstractAPI",
 	"category" : "Argentum-IEX-API",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "AgIexReferenceDataCrypto",
+	"name" : "AgIexAbstractReferenceData",
 	"type" : "normal"
 }

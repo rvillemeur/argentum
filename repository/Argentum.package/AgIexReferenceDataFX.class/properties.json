@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "AgIexReferenceDataCrypto",
+	"name" : "AgIexReferenceDataFX",
 	"type" : "normal"
 }
