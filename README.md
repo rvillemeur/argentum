@@ -5,6 +5,9 @@ Few function to perform interest calculation done in smalltalk
 
 Toy project to explore Pharo Smalltalk, and play with its new interface with git, Iceberg
 
+Would need to integrate with *'financial market data api provider'* like those referenced 
+in [geekflare](https://geekflare.com/best-stock-market-api/) or [marketstack](https://marketstack.com/documentation)
+
 
 [![Build Status](https://travis-ci.org/rvillemeur/argentum.svg?branch=master)](https://travis-ci.com/rvillemeur/argentum)
 
